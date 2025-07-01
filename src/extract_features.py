@@ -1,4 +1,3 @@
-# extract_features.py
 # Parses GROMACS simulation data to extract relevant features.
 
 # Placeholder script for feature extraction logic 
