@@ -32,7 +32,6 @@ kinetoplast-ml-predictor/
 │ ├── EDA.ipynb
 │ └── Model_Evaluation.ipynb
 │
-├── LICENSE
 ├── .gitignore
 └── README.md
 ```
